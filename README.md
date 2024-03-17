@@ -110,8 +110,12 @@ L'importance de **choisir judicieusement les valeurs `P` et `G`** pour garantir 
 - [**`16:09`**](https://www.youtube.com/watch?v=1Yv8m398Fv0?t=969) Choisir un **nombre premier `P`** et une **racine primitive `G`** assure un maximum de possibilités.
 - [**`16:35`**](https://www.youtube.com/watch?v=1Yv8m398Fv0?t=995) Exemple avec `P = 13`: Racines primitives sont **2**, **6**, **7**, et **11**. Choisir G adéquat est crucial.
 
-![](assets/2024-03-17-11-56-31.png)
 ![](assets/2024-03-17-11-57-24.png)
+
+Une racine primitive ça veut dire que si vous élevez `G` à toutes les puissance entre `1 et P -1` vous allez trouver tous les nombres possibles entre `1 et P - 1` donc on sera dans un cas où il y aura un maximum de possibilités on peut le voir sur un exemple avec `P = 13` et `G = 6` pour illustrer...
+
+![](assets/2024-03-17-11-56-31.png)
+
 
 [**`17:00`**](https://www.youtube.com/watch?v=1Yv8m398Fv0?t=1020)
 # Sécurité des Communications
